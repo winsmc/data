@@ -1,0 +1,479 @@
+Animations
+1.7 animations and more
+text.oldanimations.name
+
+Apple Skin
+Display information related to hunger
+text.appleskin.name
+
+Armor Status
+Display the armour you are wearing
+text.armorstatus.name
+
+Array List
+Display a list of enabled mods
+text.arraylist.name
+
+Async Screenshot
+Take screenshots without pausing the game
+text.asyncscreenshot.name
+
+Auto Text
+Send text with one button
+text.autotext.name
+
+Block Info
+View details of the block you are looking at
+text.blockinfo.name
+
+Block Overlay
+Change the outline of the selected block
+text.blockoverlay.name
+
+Blood Particles
+Add a blood effect when you kill
+text.bloodparticles.name
+
+Borderless Fullscreen
+Make the full screen borderless
+text.borderlessfullscreen.name
+
+Boss Health
+Display Boss Health
+text.bosshealth.name
+
+Bow Zoom
+Zooming when using a bow
+text.bowzoom.name
+
+Breadcrumbs
+Render a trail behind you of where you walked
+text.breadcrumbs.name
+
+Calendar
+Display a calendar
+text.calendar.name
+
+Chat
+Customise chat
+text.chat.name
+
+Chat Translate
+Translate the chat text
+text.chattranslate.name
+
+Chunk Animator
+Add an animation to chunk loading
+text.chunkanimator.name
+
+Chunk Borders
+Render chunk borders
+text.chunkborders.name
+
+Clear Glass
+Makes glass clear
+text.clearglass.name
+
+Clear Water
+Removes the Water Effect
+text.clearwater.name
+
+Client Spoofer
+Spoof what client you are using
+text.clientspoofer.name
+
+Clock
+Display current time
+text.clock.name
+
+Colour Saturation
+Change the game colour saturation
+text.colorsaturation.name
+
+Combo Counter
+Display Combo count
+text.combocounter.name
+
+Compass
+Displays the direction the player is facing
+text.compass.name
+
+Coords
+Display your coordinates
+text.coords.name
+
+CPS Display
+Display click per second
+text.cpsdisplay.name
+
+Crosshair
+Customise your crosshair
+text.crosshair.name
+
+Custom Held Items
+Customise the size of the held items
+text.customhelditems.name
+
+Damage Particles
+Add particles for the amount of damage
+text.damageparticles.name
+
+Damage Tilt
+Angle of the camera tilts in the direction of the damage
+text.damagetilt.name
+
+Damage Tint
+Screen turns red when health decreases
+text.damagetint.name
+
+Day Counter
+Count passing Minecraft days
+text.daycounter.name
+
+Discord RPC
+Display status on Discord
+text.discordrpc.name
+
+Ears
+display ears on your character
+text.ears.name
+
+Entity Culling
+Hide entities that are off-screen to save fps
+text.entityculling.name
+
+Far Camera
+Move the camera away
+text.farcamera.name
+
+Female Gender
+use a female body shape
+text.femalegender.name
+
+Fov Modifier
+Modify fov
+text.fovmodifier.name
+
+FPS Boost
+Boost your fps
+text.fpsboost.name
+
+FPS Display
+Display Minecraft fps
+text.fpsdisplay.name
+
+FPS Limiter
+Limit your fps
+text.fpslimiter.name
+
+FPS Spoofer
+Spoof your FPS
+text.fpsspoofer.name
+
+Freelook
+Move the viewpoint freely
+text.freelook.name
+
+Fullbright
+Brighten the screen
+text.fullbright.name
+
+Game Mode Display
+Display your game-mode
+text.gamemodedisplay.name
+
+Glint Colour
+Customise Glint Colour
+text.glintcolor.name
+
+Godbridge Assist
+Get a helpful indicator of where to aim
+text.godbridgeassist.name
+
+Health Display
+Display player health
+text.healthdisplay.name
+
+Hitbox
+Shows range of attack and viewpoint
+text.hitbox.name
+
+Hit Colour
+Change the colour of the damage colour
+text.hitcolor.name
+
+Hit Delay Fix
+Fix delay when attacking player like 1.7
+text.hitdelayfix.name
+
+Horse Stats
+Display horse stats
+text.horsestats.name
+
+Hypixel
+Useful mods for Hypixel
+text.hypixel.name
+
+Hypixel Quick Play
+Quickly enter Hypixel commands
+text.hypixelquickplay.name
+
+Image Display
+Display the image on the screen
+text.imagedisplay.name
+
+Inventory Display
+Display the contents of your Inventory
+text.inventorydisplay.name
+
+Inventory
+Customise Inventory
+text.inventory.name
+
+Item Info
+Display information about what you are holding
+text.iteminfo.name
+
+Item Physics
+Add physics to items
+text.itemphysics.name
+
+2D Items
+Render items in 2D
+text.2ditems.name
+
+Jump Circle
+Add an effect when you jump
+text.jumpcircle.name
+
+Keystrokes
+Display pressed keys
+text.keystrokes.name
+
+Kill Effects
+Display effects when you kill
+text.killeffects.name
+
+Kill Sounds
+Play a sound when you kill Someone
+text.killsounds.name
+
+Mechvibes
+Play mouse and keyboard sounds
+text.mechvibes.name
+
+Memory Usage
+Display Minecraft memory usage
+text.memoryusage.name
+
+Minemen
+Useful mods for Minemen Club
+text.minemen.name
+
+Minimal Damage Shake
+Remove damage shake
+text.minimaldamageshake.name
+
+Minimal View Bobbing
+Remove screen bobbing
+text.minimalviewbobbing.name
+
+Minimap
+Display the map on your screen
+text.minimap.name
+
+Mo Bends
+Adds a smooth animation to player movement
+text.mobends.name
+
+Modern Hotbar
+Modernise the hotbar to use the soar style
+text.modernhotbar.name
+
+Motion Blur
+Adding afterimages to movements
+text.motionblur.name
+
+Mouse Strokes
+Display mouse movement
+text.mousestrokes.name
+
+Name Display
+Display your name
+text.namedisplay.name
+
+Name Protect
+Hide your name
+text.nameprotect.name
+
+Nametag
+Render your name above you
+text.nametag.name
+
+Overlay Editor
+Edit overlay
+text.overlayeditor.name
+
+Pack Display
+Display the Pack you are using
+text.packdisplay.name
+
+Particle Customiser
+Customise the particles
+text.particlecustomizer.name
+
+Ping Display
+Display ping to server
+text.pingdisplay.name
+
+Player Count
+Display the number of people on the server
+text.playercounter.name
+
+Player Display
+Display your character on the screen
+text.playerdisplay.name
+
+Player List
+Display players in your world
+text.playerlist.name
+
+Player Predicator
+Predicting the player position
+text.playerpredicator.name
+
+Play Time Display
+Display playing time
+text.playtimedisplay.name
+
+Potion Counter
+Display the number of potions
+text.potioncounter.name
+
+Potion Status
+Display your current potion effects
+text.potionstatus.name
+
+Projectile Trail
+Display effects behind thrown objects
+text.projectiletrail.name
+
+Quick Switch
+Switch items with a single button
+text.quickswitch.name
+
+Raw Input
+Enable raw input for the mouse
+text.rawinput.name
+
+Reach Circles
+Shows how far you can hit
+text.reachcircles.name
+
+Reach Display
+Display your reach
+text.reachdisplay.name
+
+Rearview
+View what is behind you
+text.rearview.name
+
+Scoreboard
+Customise scoreboard
+text.scoreboard.name
+
+Server IP
+Display the current server's IP
+text.serverip
+
+Session Info
+Display current session information
+text.sessioninfo.name
+
+Shiny Pots
+Add enchantment background to pots
+text.shinypots.name
+
+3D Skin
+Make your skin 3D
+text.3dskin.name
+
+Skin Protect
+Hide your skin
+text.skinprotect.name
+
+Slow Swing
+Slow down swing speed
+text.slowswing.name
+
+Sound Modifier
+Modify sound volume
+text.soundmodifier.name
+
+Sound Subtitles
+Display where sounds are coming from
+text.soundsubtitles.name
+
+Speedometer
+Display your speed
+text.speedometer.name
+
+Stopwatch
+Measure the time
+text.stopwatch.name
+
+Tab Editor
+Customise the Tab List
+text.tabeditor.name
+
+Taplook
+Switch viewing orientation at the touch of a button
+text.taplook.name
+
+Target Indicator
+Display what entity you are attacking
+text.targetindicator.name
+
+Target Info
+Display information about what you are attacking
+text.targetinfo.name
+
+Time Changer
+Change the client side time
+text.timechanger.name
+
+TNT Timer
+Display the time until TNT explodes
+text.tnttimer.name
+
+Toggle Sneak
+Sneak always without holding down the sneak key
+text.togglesneak.name
+
+Toggle Sprint
+Sprint always without holding down the sprint key
+text.togglesprint.name
+
+UHC Overlay
+Make UHC items larger
+text.uhcoverlay.name
+
+Wavey Capes
+Add Animation to your Cape
+text.waveycaoes.name
+
+Waypoint
+Add and view waypoints
+text.waypoint.name
+
+Weather Changer
+Change the client side weather
+text.weatherchanger.name
+
+Weather Display
+Display current world weather
+text.weatherdisplay.name
+
+Zoom
+Zoom in on the player point of view
+text.zoom.name

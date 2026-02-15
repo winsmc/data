@@ -1,0 +1,28 @@
+{
+    "news": [
+                {
+            "title": "Glide Client 7.2",
+            "Author": "GlideClient Team",
+            "unixtime": 1752105240,
+            "subtitle": "We have released GlideClient 7.2.",
+            "body": "Today we are proud to announce that we are releasing GlideClient as a public release, we would like to thank everyone that participated in the GlideClient betas and we hope you will enjoy using the latest itteration of our client.", 
+            "img": ""
+        },
+        {
+            "title": "Glide Client Beta.",
+            "Author": "BreadCat",
+            "unixtime": 1734487980,
+            "subtitle": "We have released GlideClient as a beta.",
+            "body": "Today we are happy to say we have finaly released GlideClient into public beta, with this we expect there to be bugs however we have tried to ensure that the client is usable. We are looking forward to hearing user reactions to the glide beta and want to thank for using Glide.", 
+            "img": ""
+        },
+        {
+            "title": "The new news section.",
+            "Author": "GlideClient",
+            "unixtime": 1734183120,
+            "subtitle": "The news from Glide.",
+            "body": "We are testing the new news feature, here we will send announcements you can see straight from the client to stay updated about what we are working on!", 
+            "img": ""
+        }
+    ]
+}

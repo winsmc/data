@@ -1,9 +1,10 @@
 {
     "updates": [
         {
-            "updatelink": "https://github.com/GlideClient/client/releases",
-            "versionstring": "7.2",
-            "version": 7201
+            "updatelink": "https://github.com/winsmc/Client/releases",
+            "versionstring": "1.0",
+            "version": 2026
         }
     ]
 }
+

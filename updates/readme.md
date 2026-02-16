@@ -1,1 +1,1 @@
-# This is deprecated, new glide versions will use the client meta instead
+# Isso está obsoleto; novas versões do Wins usarão os metadados do cliente.

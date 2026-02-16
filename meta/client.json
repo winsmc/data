@@ -1,8 +1,9 @@
 {
-    "updatelink": "https://github.com/GlideClient/client/releases",
-    "latestversionstring": "7.2",
-    "latestversion": 7201,
-    "discord": "https://discord.gg/42PXqKvwxq",
+    "updatelink": "https://github.com/winsmc/Client/releases",
+    "latestversionstring": "1.0",
+    "latestversion": 2026,
+    "discord": "https://discord.gg/TdGMTEmeE2",
     "discontinued": false,
     "soar8released": false
+
 }

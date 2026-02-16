@@ -1,2 +1,2 @@
-# Portion of the website
-This repo is dedicated to hosting files Glide needs for its internet connected features
+# Parte do site
+Este repositório é dedicado a hospedar os arquivos que o Wins precisa para seus recursos conectados à internet.
